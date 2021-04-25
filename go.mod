@@ -1,3 +1,3 @@
 module github.com/djherbis/atime
 
-go 1.11
+go 1.16
